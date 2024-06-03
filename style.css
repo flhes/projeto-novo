@@ -1,59 +1,108 @@
 .container{
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    background-color: grey;
-    flex-wrap: wrap;
+  border: 1px black solid;
+  height: 100vh;
+}
+
+#item1{
+  border: 1px black solid;
+  height: 20%;
+  display: flex;
+  
+}
+
+#elemento1{
+  border: 1px black solid;
+  width: 25%;
 
 }
-#item1{
-    border: solid 1px  black;
-    height: 20%;
-    width: 100%;
-    display: flex;
+
+#resultado{
+  background-color: antiquewhite ;
 }
-#elemento1{
-  border: solid 1px red;
-  width: 25%;
-  height: 100%;
-}
+
 #elemento2{
-    border: solid 1px red;
-    width: 25%;
-    height: 100%;
-  }
+  border: 1px black solid;
+  width: 25%;
+
+}
+
+#resultadoSubtrair{
+  background-color: antiquewhite ;
+}
+
 #elemento3{
-    border: solid 1px red;
-    width: 25%;
-    height: 100%;
-  }
+  border: 1px black solid;
+  width: 25%;
+
+}
+
+#resultadoMultiplicar{
+  background-color: antiquewhite;
+}
+
 #elemento4{
-    border: solid 1px red;
-    width: 25%;
-    height: 100%;
-  }
+  border: 1px black solid;
+  width: 25%;
+
+}
+
+#resultadoDividir{
+  background-color: antiquewhite;
+}
 
 #item2{
-    border: solid 1px  black;
-    height: 20%;
-    width: 100%;
-
+  border: 1px black solid;
+  height: 20%;
+  display: flex;
 }
+
+#conversao1{
+  border: 1px black solid;
+  width: 25%;
+}
+
+#resultadoFareneith{
+  background-color: antiquewhite;
+}
+
+#conversao2{
+  border: 1px black solid;
+  width: 25%;
+}
+
+#resultadoCelsius{
+  background-color: antiquewhite;
+}
+
+#conversao3{
+  border: 1px black solid;
+  width: 25%;
+}
+
+#resultadoretangulo{
+  background-color: antiquewhite;
+}
+
+#conversao4{
+  border: 1px black solid;
+  width: 25%;
+}
+
+#resultadoRaio{
+  background-color: antiquewhite;
+}
+
 #item3{
-    border: solid 1px  black;
-    height: 20%;
-    width: 100%;
-
+  border: 1px black solid;
+  height: 20%;
 }
+
 #item4{
-    border: solid 1px  black;
-    height: 20%;
-    width: 100%;
-
+  border: 1px black solid;
+  height: 20%;
 }
-#item5{
-    border: solid 1px  black;
-    height: 20%;
-    width: 100%;
 
+#item5{
+  border: 1px black solid;
+  height: 20%;
 }
